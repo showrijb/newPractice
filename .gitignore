@@ -1,0 +1,5 @@
+/.settings/
+.classpath
+.project
+/target/
+target/classes/META-INF/maven/duplicate/duplicate/pom.properties
